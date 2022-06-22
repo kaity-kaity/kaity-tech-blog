@@ -4,4 +4,28 @@ date: "2020-02-21"
 thumbnail: "/images/twitter-clone.png"
 ---
 
-Twitter-Cloneの説明
+## 概要
+
+- ホーム画面のみの実装
+- 機能(ツイート機能・特定のツイート表示・特定のユーザーのツイート一覧表示)
+
+## 開発目的
+
+- ReactやReact関連のライブラリの勉強
+- 自身が開発中のフィットネスWebアプリの機能開発の参考にするため
+
+## 使用技術
+
+### フロントエンド
+
+- React.js
+- MaterialUI
+
+### バックエンド
+
+- Firebase(Firestore・Hosting)
+
+## ソース
+
+- [本番ページ](https://twitter-clone-gilt-gamma.vercel.app/)
+- [GitHub](https://github.com/kaity-kaity/twitter-clone)
