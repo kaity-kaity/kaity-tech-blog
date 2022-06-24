@@ -18,13 +18,13 @@ export default function Layout({ children, home }) {
         {home ? (
           <img
             className={`${utilsStyles.borderCircle} ${styles.headerHomeImage}`}
-            src="/images/profile.png"
+            src="/images/kaito.jpg"
             alt="アイコン画像"
           />
         ) : (
           <img
             className={`${utilsStyles.borderCircle} ${styles.headerImage}`}
-            src="/images/profile.png"
+            src="/images/kaito.jpg"
             alt="アイコン画像"
           />
         )}

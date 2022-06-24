@@ -1,12 +1,12 @@
 ---
-title: "チャットアプリ"
+title: "Chat App"
 date: "2020-02-21"
 thumbnail: "/images/chat-app.png"
 ---
 
 ## 概要
 
-- 1つのグループでユーザーがメッセージのやりとりをできるWebアプリです
+- 1 つのグループでユーザーがメッセージのやりとりをできる Web アプリです
 
 ### 機能
 
@@ -17,9 +17,9 @@ thumbnail: "/images/chat-app.png"
 
 ## 開発目的
 
-- 現職でAngularを用いた開発で利用していたので自己学習のために利用
+- 現職で Angular を用いた開発で利用していたので自己学習のために利用
 - RealTime Database(チャット内のメーセージの登録に利用)を一度使ってみたかった。
-- Typescripにも慣れておきたかった
+- Typescrip にも慣れておきたかった
 - コンポーネントの概念と実用方を理解しておきたかった
 
 ## 使用技術
@@ -33,7 +33,7 @@ thumbnail: "/images/chat-app.png"
 - Firebase(Firestore Datebase・Realtime Databese ・Authentication・Hosting)
 - Vercel Deploy
 
-### 外部API
+### 外部 API
 
 - YouTube Data API v3
 

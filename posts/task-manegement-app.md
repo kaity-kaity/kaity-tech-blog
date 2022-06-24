@@ -1,5 +1,5 @@
 ---
-title: "タスクマネジメントサービス"
+title: "Task Management App"
 date: "2020-02-21"
 thumbnail: "/images/task-management-app.png"
 ---
@@ -10,8 +10,8 @@ thumbnail: "/images/task-management-app.png"
 
 ## 開発目的
 
-- ReactやReact関連のライブラリの勉強
-- 自身が開発中のフィットネスWebアプリの機能開発の参考にするため
+- React や React 関連のライブラリの勉強
+- 自身が開発中のフィットネス Web アプリの機能開発の参考にするため
 
 ## 使用技術
 
@@ -34,6 +34,6 @@ thumbnail: "/images/task-management-app.png"
 
 ## 今後の追加機能
 
-- タスクデータをfirestoreに保管できる機能
+- タスクデータを firestore に保管できる機能
 - タスクカードをタスクグループ間で移動できる機能
 - タスクの詳細データの登録機能
