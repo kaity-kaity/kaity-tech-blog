@@ -58,3 +58,16 @@
   color: black;
   font-weight: 550;
 }
+
+.backHomeButton {
+  margin: 80px 0;
+}
+
+.backHomeButtonLink {
+  color: white;
+  text-decoration: none;
+}
+
+.backHomeButtonLink:hover {
+  text-decoration: none;
+}

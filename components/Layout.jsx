@@ -1,9 +1,9 @@
 import Head from "next/head";
-import Image from "next/image";
 import React from "react";
 import styles from "./layout.module.css";
 import utilsStyles from "../styles/utils.module.css";
 import Link from "next/link";
+import { Button } from "@material-ui/core";
 
 const name = "KAITO KITAGAWA";
 export const siteTitle = "kaity-blog";
@@ -30,12 +30,18 @@ export default function Layout({ children, home }) {
         )}
         <h1 className={utilsStyles.heading2Xl}>{name}</h1>
       </header>
-      <main>{children}</main>
-      {!home && (
-        <div>
-          <Link href="/">← ホームに戻る</Link>
-        </div>
-      )}
+      <div className={utilsStyles.container}>
+        <main>{children}</main>
+        {!home && (
+          <div className={utilsStyles.backHomeButton}>
+            <Button variant="contained" color="primary">
+              <Link href="/">
+                <a className={utilsStyles.backHomeButtonLink}>ホームに戻る</a>
+              </Link>
+            </Button>
+          </div>
+        )}
+      </div>
     </div>
   );
 }

@@ -17,16 +17,24 @@ export async function getStaticProps() {
 }
 
 export default function Home({ allPostsData }) {
-  console.log(allPostsData);
+  allPostsData.sort(function (prev, next) {
+    return prev.order - next.order;
+  });
   return (
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
       </Head>
       <section className={utilsStyles.headingMd}>
-        <p>私は3年目の新人エンジニアです</p>
+        <p>
+          <b>React × Typescript</b>
+          を勉強中の駆け出しフロントエンドエンジニアです!!
+        </p>
+        <p>
+          現在の目標は、<b>新人パーソナルトレーナーの経営課題解決</b>
+          のサポートを目的とした、サービスを開発すること!!
+        </p>
       </section>
-
       <section className={`${utilsStyles.headingMd} ${utilsStyles.padding1px}`}>
         <h2>プロジェクト一覧</h2>
         <div className={styles.grid}>
