@@ -2,6 +2,7 @@
 title: "Twitter-Clone"
 date: "2020-02-21"
 order: 4
+framework: "/icons/react.png"
 thumbnail: "/images/twitter-clone.png"
 ---
 

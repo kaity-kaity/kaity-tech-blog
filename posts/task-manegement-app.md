@@ -2,6 +2,7 @@
 title: "Task Management App"
 date: "2020-02-21"
 order: 3
+framework: "/icons/react.png"
 thumbnail: "/images/task-management-app.png"
 ---
 

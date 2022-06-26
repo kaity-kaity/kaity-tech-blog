@@ -2,6 +2,7 @@
 title: "Chat App"
 date: "2020-02-21"
 order: 5
+framework: "/icons/angular.png"
 thumbnail: "/images/chat-app.png"
 ---
 

@@ -2,6 +2,7 @@
 title: "Shopping APP(絶賛開発中)"
 date: "2020-02-22"
 order: 12
+framework: "/icons/next.png"
 thumbnail: "/images/shopping-app.png"
 ---
 
@@ -25,13 +26,7 @@ thumbnail: "/images/shopping-app.png"
 
 - Strapi
 
-# ソース
+# リポジトリ
 
-- [本番ページ](https://trello-clone-three-lime.vercel.app/)
-- [GitHub](https://github.com/kaity-kaity/trello-clone)
-
-# 今後の追加機能
-
-- タスクデータを firestore に保管できる機能
-- タスクカードをタスクグループ間で移動できる機能
-- タスクの詳細データの登録機能
+- フロントエンド
+- バックエンド

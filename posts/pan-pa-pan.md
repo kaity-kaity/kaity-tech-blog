@@ -2,17 +2,18 @@
 title: "カフェサイト(閉店)静的ページ"
 date: "2020-02-21"
 order: 9
+framework: "/icons/wp.png"
 thumbnail: "/images/pan-pa-pan-site.png"
 ---
 
 # 概要
 
-- 友人のパン屋カフェのサイトをHTML/CSS/Javascriptで作成
-- コロナ禍の影響で閉店したため、WPのテーマは残っていない。
+- 友人のパン屋カフェのサイトを HTML/CSS/Javascript で作成
+- コロナ禍の影響で閉店したため、WP のテーマは残っていない。
 
 # 開発目的
 
-- 友人がcafeを開業するので、サイト作成の依頼が来た
+- 友人が cafe を開業するので、サイト作成の依頼が来た
 
 # 使用技術
 
@@ -21,7 +22,7 @@ thumbnail: "/images/pan-pa-pan-site.png"
 - HTML
 - CSCC(プラグインで利用できるようにした)
 - javascript
-- PHP(WPの自作テーマに必要な範囲)
+- PHP(WP の自作テーマに必要な範囲)
 
 ### DB
 

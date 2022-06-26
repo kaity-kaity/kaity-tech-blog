@@ -2,6 +2,7 @@
 title: "Microposts app"
 date: "2020-02-21"
 order: 10
+framework: "/icons/ruby.png"
 thumbnail: "/images/microposts-app.png"
 ---
 
