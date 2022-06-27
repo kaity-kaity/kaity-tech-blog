@@ -45,6 +45,24 @@ thumbnail: "/images/real-sns.png"
 - [フロントエンド](https://github.com/kaity-kaity/Real-SNS.Web)
 - [バックエンド](https://github.com/kaity-kaity/Real-SNS.Server)
 
+# 各ページの画像
+
+### サインアップ
+
+![signup.png](/images/real-sns/signup.png)
+
+### サインイン
+
+![login.png](/images/real-sns/login.png)
+
+### トップ
+
+![top.png](/images/real-sns/top.png)
+
+### 個人
+
+![profile.png](/images/real-sns/profile.png)
+
 # 作業バックログ
 
 - 静的ファイルの保管を Cloudinary に移行

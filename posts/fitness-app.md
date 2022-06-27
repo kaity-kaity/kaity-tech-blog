@@ -46,3 +46,15 @@ thumbnail: "/images/fitness-app.png"
 ### クラウドストレージ
 
 - Cloudinary
+
+# ソース
+
+- 非公開
+
+# サイトマップ
+
+![スクリーンショット 2022-06-28 3.06.19.png](/images/fitness-app/sitemap.png)
+
+# デザインカンプ
+
+![スクリーンショット 2022-06-28 3.06.19.png](/images/fitness-app/design.png)
