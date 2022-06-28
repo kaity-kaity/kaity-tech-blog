@@ -1,7 +1,7 @@
 ---
 title: "カフェサイト(閉店)静的ページ"
 date: "2020-02-21"
-order: 9
+order: 14
 framework: "/icons/wp.png"
 thumbnail: "/images/pan-pa-pan-site.png"
 ---

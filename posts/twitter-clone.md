@@ -1,7 +1,7 @@
 ---
 title: "Twitter-Clone"
 date: "2020-02-21"
-order: 4
+order: 8
 framework: "/icons/react.png"
 thumbnail: "/images/twitter-clone.png"
 ---
@@ -13,8 +13,8 @@ thumbnail: "/images/twitter-clone.png"
 
 ## 開発目的
 
-- ReactやReact関連のライブラリの勉強
-- 自身が開発中のフィットネスWebアプリの機能開発の参考にするため
+- React や React 関連のライブラリの勉強
+- 自身が開発中のフィットネス Web アプリの機能開発の参考にするため
 
 ## 使用技術
 

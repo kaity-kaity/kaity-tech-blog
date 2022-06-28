@@ -1,7 +1,7 @@
 ---
 title: "ミニゲーム(JS研修教材)"
 date: "2020-02-21"
-order: 8
+order: 12
 framework: "/icons/js.png"
 thumbnail: "/images/minigame.png"
 ---
