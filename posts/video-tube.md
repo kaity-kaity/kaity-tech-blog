@@ -39,8 +39,18 @@ thumbnail: "/images/video-tube.png"
 
 ## ソース
 
-- 本番ページ
-- GitHub
+- [本番ページ](https://video-tube-beryl.vercel.app/)
+- [GitHub](https://github.com/kaity-kaity/videoTube)
+
+# 各種ページ
+
+### ホーム
+
+![home.png](/images/video-tube/home.png)
+
+### 動画詳細ページ
+
+![video.png](/images/video-tube/video.png)
 
 ### 今後の追加機能
 

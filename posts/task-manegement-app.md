@@ -34,6 +34,10 @@ thumbnail: "/images/task-management-app.png"
 - [本番ページ](https://trello-clone-three-lime.vercel.app/)
 - [GitHub](https://github.com/kaity-kaity/trello-clone)
 
+# ボードイメージ
+
+![board.png](/images/task-management/task-board.png)
+
 ## 今後の追加機能
 
 - タスクデータを firestore に保管できる機能
