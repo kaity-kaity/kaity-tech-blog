@@ -51,7 +51,7 @@ export default function Home({ allPostsData }) {
                 <a className={utilsStyles.boldText}>{title}</a>
               </Link>
               <br />
-              <small className={utilsStyles.lightText}>{date}</small>
+              {/* <small className={utilsStyles.lightText}>{date}</small> */}
             </article>
           ))}
         </div>
