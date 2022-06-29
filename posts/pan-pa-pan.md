@@ -35,3 +35,21 @@ thumbnail: "/images/pan-pa-pan-site.png"
 # ソース
 
 - [リポジトリ](https://github.com/kaity-kaity/bakery-site/tree/main/pages)
+
+# 各種ページ
+
+### ホーム
+
+![home.png](/images/pan-pa-pan/home.png)
+
+### サービス内容
+
+![service.png](/images/pan-pa-pan/service.png)
+
+### アクセス
+
+![access.png](/images/pan-pa-pan/access.png)
+
+### お問合せ
+
+![inquiries.png](/images/pan-pa-pan/inquiries.png)
