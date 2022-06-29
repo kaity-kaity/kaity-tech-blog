@@ -58,3 +58,7 @@ thumbnail: "/images/fitness-app.png"
 # デザインカンプ
 
 ![スクリーンショット 2022-06-28 3.06.19.png](/images/fitness-app/design.png)
+
+# ペルソナ
+
+https://immediate-crib-b99.notion.site/81ae1ac65c4d4671bb985e57ec3c9fff
