@@ -26,7 +26,30 @@ thumbnail: "/images/minigame.png"
 # 動作方法(ローカル環境)
 
 1. zip ファイルのダウンロード
+2. Top.html をブラウザで表示
 
-[education-app-main.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55feb601-86de-4c1f-a597-3275c72540cc/education-app-main.zip)
+# 各種ページ
 
-1. Top.html をブラウザで表示
+### おみくじ
+
+![omikuji.png](/images/minigame/omikuji.png)
+
+### カレンダー
+
+![calender.png](/images/minigame/calender.png)
+
+### ストップウォッチ
+
+![stopwatch.png](/images/minigame/stopwatch.png)
+
+### タイピングゲーム
+
+![typing.png](/images/minigame/typing.png)
+
+### スロット
+
+![slot.png](/images/minigame/slot.png)
+
+### クイズ
+
+![quiz.png](/images/minigame/quiz.png)

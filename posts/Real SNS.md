@@ -49,15 +49,15 @@ thumbnail: "/images/real-sns.png"
 - [フロントエンド](https://github.com/kaity-kaity/Real-SNS.Web)
 - [バックエンド](https://github.com/kaity-kaity/Real-SNS.Server)
 
-# 各ページの画像
+
+### サインイン
+
+![login.png](/images/real-sns/login.png)# 各ページの画像
 
 ### サインアップ
 
 ![signup.png](/images/real-sns/signup.png)
 
-### サインイン
-
-![login.png](/images/real-sns/login.png)
 
 ### トップ
 
