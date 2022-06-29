@@ -31,3 +31,7 @@ thumbnail: "/images/twitter-clone.png"
 
 - [本番ページ](https://twitter-clone-gilt-gamma.vercel.app/)
 - [GitHub](https://github.com/kaity-kaity/twitter-clone)
+
+# ホーム
+
+![home.png](/images/twitter-clone.png)
