@@ -40,6 +40,10 @@ thumbnail: "/images/real-sns.png"
 
 - Cloudinary
 
+### 動作テスト
+
+- Postman
+
 # リポジトリ
 
 - [フロントエンド](https://github.com/kaity-kaity/Real-SNS.Web)

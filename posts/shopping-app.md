@@ -26,6 +26,10 @@ thumbnail: "/images/shopping-app.png"
 
 - Strapi
 
+### 動作テスト
+
+- Postman
+
 # リポジトリ
 
 - フロントエンド
