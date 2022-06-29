@@ -32,5 +32,5 @@ thumbnail: "/images/shopping-app.png"
 
 # リポジトリ
 
-- フロントエンド
-- バックエンド
+- [フロントエンド](https://github.com/kaity-kaity/Shopping-App.Web)
+- [バックエンド](https://github.com/kaity-kaity/Shopping-App.Server)

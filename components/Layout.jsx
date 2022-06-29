@@ -14,6 +14,15 @@ export default function Layout({ children, home }) {
       <Head>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      {!home && (
+        <div className={utilsStyles.backHomeButton}>
+          <Button variant="contained" color="primary">
+            <Link href="/">
+              <a className={utilsStyles.backHomeButtonLink}>ホームに戻る</a>
+            </Link>
+          </Button>
+        </div>
+      )}
       <header className={styles.header}>
         {home ? (
           <img

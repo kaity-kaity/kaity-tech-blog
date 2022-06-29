@@ -6,6 +6,22 @@ framework: "/icons/angular.png"
 thumbnail: "/images/chat-app.png"
 ---
 
+### ホーム
+
+![home.png](/images/chat-app/home.png)
+
+### 新規登録
+
+![register.png](/images/chat-app/register.png)
+
+### ログイン
+
+![login.png](/images/chat-app/login.png)
+
+### チャットルーム
+
+![chat.png](/images/chat-app/chat.png)
+
 # 概要
 
 - 1 つのグループでユーザーがメッセージのやりとりをできる Web アプリです
@@ -42,24 +58,6 @@ thumbnail: "/images/chat-app.png"
 # ソース
 
 - [GitHub](https://github.com/kaity-kaity/chat-app)
-
-# 各種ページ
-
-### ホーム
-
-![home.png](/images/chat-app/home.png)
-
-### 新規登録
-
-![register.png](/images/chat-app/register.png)
-
-### ログイン
-
-![login.png](/images/chat-app/login.png)
-
-### チャットルーム
-
-![chat.png](/images/chat-app/chat.png)
 
 # 今後の追加機能
 

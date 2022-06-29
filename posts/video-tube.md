@@ -6,6 +6,14 @@ framework: "/icons/react.png"
 thumbnail: "/images/video-tube.png"
 ---
 
+### ホーム
+
+![home.png](/images/video-tube/home.png)
+
+### 動画詳細ページ
+
+![video.png](/images/video-tube/video.png)
+
 ## 概要
 
 - YouTube クローンアプリ
@@ -42,16 +50,6 @@ thumbnail: "/images/video-tube.png"
 - [本番ページ](https://video-tube-beryl.vercel.app/)
 - [GitHub](https://github.com/kaity-kaity/videoTube)
 
-# 各種ページ
-
-### ホーム
-
-![home.png](/images/video-tube/home.png)
-
-### 動画詳細ページ
-
-![video.png](/images/video-tube/video.png)
-
-### 今後の追加機能
+# 今後の追加機能
 
 - 検索機能の改善(現在、バージョンアップにより、機能していないため)

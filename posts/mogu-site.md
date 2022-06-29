@@ -6,6 +6,22 @@ framework: "/icons/wp.png"
 thumbnail: "/images/mogu-site.png"
 ---
 
+### ホーム
+
+![home.png](/images/mogu-site/home.png)
+
+### アクセス
+
+![access.png](/images/mogu-site/access.png)
+
+### お問合せ
+
+![inquiries.png](/images/mogu-site/inquiries.png)
+
+### わたしたちについて
+
+![about.png](/images/mogu-site/about.png)
+
 # 概要
 
 - 母親が自宅お菓子屋さん(MOGU)を始めるということで、WordPress でフォームページ作成
@@ -41,21 +57,3 @@ thumbnail: "/images/mogu-site.png"
 
 - [リポジトリ](https://github.com/kaity-kaity/WP-Mogu)
 - [本番](http://kaity-blog.com/) (まだ、ドメインは借りていないので、過去に使っていた自分のブログのドメインで公開)
-
-# 各ページの画像
-
-### ホーム
-
-![home.png](/images/mogu-site/home.png)
-
-### アクセス
-
-![access.png](/images/mogu-site/access.png)
-
-### お問合せ
-
-![inquiries.png](/images/mogu-site/inquiries.png)
-
-### わたしたちについて
-
-![about.png](/images/mogu-site/about.png)

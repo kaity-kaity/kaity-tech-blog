@@ -6,17 +6,21 @@ framework: "/icons/react.png"
 thumbnail: "/images/twitter-clone.png"
 ---
 
-## 概要
+### ホーム
+
+![home.png](/images/twitter-clone.png)
+
+# 概要
 
 - ホーム画面のみの実装
 - 機能(ツイート機能・特定のツイート表示・特定のユーザーのツイート一覧表示)
 
-## 開発目的
+# 開発目的
 
 - React や React 関連のライブラリの勉強
 - 自身が開発中のフィットネス Web アプリの機能開発の参考にするため
 
-## 使用技術
+# 使用技術
 
 ### フロントエンド
 
@@ -27,11 +31,7 @@ thumbnail: "/images/twitter-clone.png"
 
 - Firebase(Firestore・Hosting)
 
-## ソース
+# ソース
 
 - [本番ページ](https://twitter-clone-gilt-gamma.vercel.app/)
 - [GitHub](https://github.com/kaity-kaity/twitter-clone)
-
-# ホーム
-
-![home.png](/images/twitter-clone.png)

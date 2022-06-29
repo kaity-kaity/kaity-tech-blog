@@ -6,6 +6,22 @@ framework: "/icons/react.png"
 thumbnail: "/images/real-sns.png"
 ---
 
+### サインイン
+
+![login.png](/images/real-sns/login.png)# 各ページの画像
+
+### サインアップ
+
+![signup.png](/images/real-sns/signup.png)
+
+### トップ
+
+![top.png](/images/real-sns/top.png)
+
+### 個人
+
+![profile.png](/images/real-sns/profile.png)
+
 # 概要
 
 - オリジナル SNS アプリ
@@ -48,24 +64,6 @@ thumbnail: "/images/real-sns.png"
 
 - [フロントエンド](https://github.com/kaity-kaity/Real-SNS.Web)
 - [バックエンド](https://github.com/kaity-kaity/Real-SNS.Server)
-
-
-### サインイン
-
-![login.png](/images/real-sns/login.png)# 各ページの画像
-
-### サインアップ
-
-![signup.png](/images/real-sns/signup.png)
-
-
-### トップ
-
-![top.png](/images/real-sns/top.png)
-
-### 個人
-
-![profile.png](/images/real-sns/profile.png)
 
 # 作業バックログ
 

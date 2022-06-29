@@ -31,7 +31,7 @@ function Post({ postData }) {
       <article>
         <h1 className={utilsStyles.headingX1}>{postData.title}</h1>
         {/* <div className={utilsStyles.lightText}>{postData.date}</div> */}
-        <div dangerouslySetInnerHTML={{__html: postData.blogContentHTML}} />
+        <div dangerouslySetInnerHTML={{ __html: postData.blogContentHTML }} />
       </article>
     </Layout>
   );
