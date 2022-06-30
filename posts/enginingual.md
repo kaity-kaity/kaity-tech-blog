@@ -1,6 +1,6 @@
 ---
 title: "エンジニンガル"
-date: "2020-02-21"
+date: "2020-02-20"
 order: 9
 framework: "/icons/ruby.png"
 thumbnail: "/images/enginingual.png"
