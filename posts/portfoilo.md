@@ -1,6 +1,5 @@
 ---
 title: "ポートフォリオ"
-date: "2020-02-21"
 order: 7
 framework: "/icons/next.png"
 thumbnail: "/images/portfolio.png"

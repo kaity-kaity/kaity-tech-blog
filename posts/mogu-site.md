@@ -1,6 +1,5 @@
 ---
 title: "お菓子屋MOGU サイト(絶賛開発中)"
-date: "2020-02-21"
 order: 3
 framework: "/icons/wp.png"
 thumbnail: "/images/mogu-site.png"

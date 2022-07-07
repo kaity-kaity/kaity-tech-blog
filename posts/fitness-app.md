@@ -1,6 +1,5 @@
 ---
 title: "フィットネスサービス(絶賛開発中)"
-date: "2020-02-21"
 order: 13
 framework: "/icons/next.png"
 thumbnail: "/images/fitness-app.png"

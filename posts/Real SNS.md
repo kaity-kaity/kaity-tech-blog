@@ -1,6 +1,5 @@
 ---
 title: "Real SNS(絶賛開発中)"
-date: "2020-02-22"
 order: 1
 framework: "/icons/react.png"
 thumbnail: "/images/real-sns.png"

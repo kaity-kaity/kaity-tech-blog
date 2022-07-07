@@ -1,6 +1,5 @@
 ---
 title: "Shopping APP(絶賛開発中)"
-date: "2020-02-22"
 order: 2
 framework: "/icons/next.png"
 thumbnail: "/images/shopping-app.png"
